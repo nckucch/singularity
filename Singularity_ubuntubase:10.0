@@ -1,2 +1,2 @@
-Bookstrap: docker
+Bootstrap: docker
 From: nckucch/ubuntubase
