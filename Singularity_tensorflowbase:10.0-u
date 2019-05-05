@@ -1,0 +1,2 @@
+Bootstrap: Docker
+From: nckucch/tensorflowbase:10.0-u
